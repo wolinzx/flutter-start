@@ -117,7 +117,7 @@ class _MyHomePageState extends State<MyHomePage> {
               onPressed: () {
                 Navigator.of(context).pushNamed("echo_page", arguments: "hi");
               },
-              child: Text("打开Echo"),
+              child: Text("打开Echo13"),
             ),
             RaisedButton(
               onPressed: () {
